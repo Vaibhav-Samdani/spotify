@@ -4,8 +4,6 @@ This project is a Spotify clone created by Vaibhav Samdani using HTML, CSS, and 
 
 ## Features
 
-- **User Authentication**: Users can sign up, log in, and log out of their accounts.
-- **Search Functionality**: Users can search for artists, albums, and songs.
 - **Music Playback**: Users can play, pause, skip, and control the volume of songs.
 - **Playlist Management**: Users can create, edit, and delete playlists.
 - **Responsive Design**: The application is designed to work seamlessly across various devices and screen sizes.
