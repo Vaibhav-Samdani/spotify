@@ -13,11 +13,11 @@ This project is a Spotify clone created by Vaibhav Samdani using HTML, CSS, and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vaibhav-samdani/spotify.git
+   git clone https://github.com/vaibhav-samdani/spotify-clone.git
 2. Navigate to the project directory:
 
    ```bash
-   cd spotify
+   cd spotify-clone 
 
 3. Open the index.html file in your web browser.
 
